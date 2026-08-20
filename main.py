@@ -12,4 +12,4 @@ print(sumNum)
 avg = sum(random_numbers)/len(random_numbers)
 print(avg)
 print("SHADI")
-ggggg
+ggggg-
